@@ -1,0 +1,7 @@
+---
+applications:
+- name: kc83t4
+  memory: 800M
+  instances: 1
+  services:
+   - kc83t4-postgre-0210798161
