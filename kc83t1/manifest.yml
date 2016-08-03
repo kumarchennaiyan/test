@@ -1,0 +1,7 @@
+---
+applications:
+- name: kc83t1
+  memory: 800M
+  instances: 1
+  services:
+   - kc83t1-mongodb-0203938001
