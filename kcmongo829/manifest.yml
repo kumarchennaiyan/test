@@ -1,0 +1,7 @@
+---
+applications:
+- name: kcmongo829
+  memory: 800M
+  instances: 1
+  services:
+   - kcmongo829-mongodb-2473899752
